@@ -2,7 +2,7 @@
 
 class Dog
   
-attr_reader :name
+  attr_accessor :name
 
 def intialize(name)
   @name = name
