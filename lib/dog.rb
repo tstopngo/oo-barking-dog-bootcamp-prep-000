@@ -6,4 +6,6 @@ def intialize(name)
   @name = name
 end
 
+def bark
+
 end 
