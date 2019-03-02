@@ -7,5 +7,6 @@ def intialize(name)
 end
 
 def bark
+puts "woof"
 
 end 
